@@ -1,8 +1,8 @@
 {
-  "version": "v1.1.7",
-  "url": "https://github.com/skulls007/TRSrelease/releases/download/v1.1.7/firmware.bin",
-  "sha256": "13f3f53e6c5894f8dac68f6250569cfe289647a0115f3e56309bee8c7e95da74",
-  "md5": "5bb0dd0e4af847b57e6b66bcffb42fc9",
-  "size": 1292256,
-  "timestamp": "2025-09-30T17:11:21Z"
+  "version": "v1.2.3",
+  "url": "https://github.com/skulls007/TRSrelease/releases/download/v1.2.3/firmware.bin",
+  "sha256": "ed24079c26e3bc5ae28b701724d41c631031857eb120454b5967f1cbdd38b751",
+  "md5": "6ced90b508c126d53962afedc6be1dfc",
+  "size": 1301360,
+  "timestamp": "2025-10-08T05:41:16Z"
 }
